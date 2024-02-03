@@ -5,3 +5,11 @@ C:\Users\owner\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\Web
 C:\Users\owner\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\owner\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
 C:\Users\owner\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\owner\Desktop\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json
